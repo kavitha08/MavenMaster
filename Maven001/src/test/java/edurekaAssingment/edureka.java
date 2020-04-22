@@ -10,6 +10,7 @@ public class edureka {
   public void f() {
 	  
 	  System.out.println("test");
+	  System.out.println("first test");
   }
   @BeforeSuite
   public void beforeSuite() {
